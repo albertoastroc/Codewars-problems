@@ -1,3 +1,5 @@
+package kyu7;
+
 import org.example.kyu7.HighAndLow;
 import org.junit.Test;
 

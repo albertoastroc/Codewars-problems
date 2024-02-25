@@ -1,3 +1,5 @@
+package kyu7;
+
 import org.example.kyu7.Isogram;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
