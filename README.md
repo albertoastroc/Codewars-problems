@@ -16,4 +16,5 @@
 ## Kyu 6
 
 - FindUniqueNumber
+- EqualSidesOfAnArray
 
