@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 /**
  * Created by Javatlacati on 01/03/2017.
  */
-class KataTest {
+class ShortestWordTest {
     @Test
     void findShort() {
         assertEquals(3, ShortestWord.findShort("bitcoin take over the world maybe who knows perhaps"));
