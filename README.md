@@ -4,6 +4,7 @@ Codewars profile https://www.codewars.com/users/bertoC
 ## Kyu5
 
 - FirstNonRepeatingCharacter
+- LongestCommonSubsequence
 
 ## Kyu 6
 
@@ -11,6 +12,7 @@ Codewars profile https://www.codewars.com/users/bertoC
 - EqualSidesOfAnArray
 - BreakCamelCase
 - IsPrime
+- AreTheyTheSame
 
 ## Kyu 7
 
@@ -29,4 +31,5 @@ Codewars profile https://www.codewars.com/users/bertoC
 - StringEndsWith
 - SumOfNumbers
 - TwoToOne
+- ValidatePinCode
 
